@@ -1,4 +1,4 @@
-# Homo Texture Pack (先辈の材质)
+# Homo Resources Pack (先辈の材质)
 
 ### 首先声明这个材质不是我 @NiuFuyu855 做的
 
