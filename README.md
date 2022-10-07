@@ -1,2 +1,7 @@
-# Homo-texture-pack
-https://www.bilibili.com/video/BV1Ke411T7hs
+# Homo Texture Pack
+
+### 首先声明这个材质不是我 @NiuFuyu855 做的
+
+### 请支持原作者！
+
+### https://www.bilibili.com/video/BV1Ke411T7hs
